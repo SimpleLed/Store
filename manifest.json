@@ -258,5 +258,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
+  },
+  {
+    "Name": "HyperX Alloy RGB",
+    "Id": "189fae57-d76a-48f7-add6-fa414daa1771",
+    "PluginId": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1
+      },
+      "Blurb": "Support for HyperX Alloy Elite RGB and HyperX Alloy FPS RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"
   }
 ]
