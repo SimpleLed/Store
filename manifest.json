@@ -133,5 +133,68 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
+  },
+  {
+    "Name": "Rainbows",
+    "Id": "15395d68-26e8-4c40-99e5-fa910339c135",
+    "PluginId": "e8c93cac-2379-4f8f-a4c8-8933e77e5c44",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": true,
+      "Id": "e8c93cac-2379-4f8f-a4c8-8933e77e5c44",
+      "Author": "Fanman03",
+      "CurrentVersion": null,
+      "Blurb": null,
+      "GitHubLink": null,
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": null,
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Source.Basics.git"
+  },
+  {
+    "Name": "Gradient",
+    "Id": "dc70f9f5-be05-438f-a500-06f58026f940",
+    "PluginId": "08803b6f-ecce-4f11-9981-26a734b0e3a6",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": true,
+      "Id": "08803b6f-ecce-4f11-9981-26a734b0e3a6",
+      "Author": "Fanman03",
+      "CurrentVersion": null,
+      "Blurb": null,
+      "GitHubLink": null,
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": null,
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Source.Basics.git"
+  },
+  {
+    "Name": "Solid Color",
+    "Id": "73e52858-d414-4999-b4fa-6fd6d7e15749",
+    "PluginId": "504f988c-a36c-420a-a83c-105665be18ff",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": true,
+      "Id": "504f988c-a36c-420a-a83c-105665be18ff",
+      "Author": "Fanman03",
+      "CurrentVersion": null,
+      "Blurb": null,
+      "GitHubLink": null,
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": null,
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Source.Basics.git"
   }
 ]
