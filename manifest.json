@@ -1,1 +1,137 @@
-[{"Name":"HyperX Alloy RGB","Id":"9f4765fc-4623-481d-920c-6b5ad21ba6e3","PluginId":"a9440d02-bba3-4e35-a9a3-88b024cc0e2d","DriverProperties":{"SupportsPull":false,"SupportsPush":true,"IsSource":false,"SupportsCustomConfig":false,"Id":"a9440d02-bba3-4e35-a9a3-88b024cc0e2d","Author":"mad ninja","CurrentVersion":{"Major":1,"Minor":0,"Revision":0,"Build":0},"Blurb":"Support for HyperX Alloy Elite RGB and HyperX Alloy FPS RGB","GitHubLink":"https://github.com/SimpleLed/Driver.HyperXAlloy.RGB","HomePage":null,"IsPublicRelease":true},"Version":{"Major":1,"Minor":0,"Revision":0,"Build":0},"Author":"mad ninja","Repo":"https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"},{"Name":"Aorus Motherboard","Id":"69dfb923-41a1-404d-9687-ee0c0ba7b12e","PluginId":"49440d02-8ca3-4e35-a9a3-88b024cc0e2d","DriverProperties":{"SupportsPull":false,"SupportsPush":true,"IsSource":false,"SupportsCustomConfig":true,"Id":"49440d02-8ca3-4e35-a9a3-88b024cc0e2d","Author":null,"CurrentVersion":null,"Blurb":null,"GitHubLink":null,"HomePage":null,"IsPublicRelease":false},"Version":null,"Author":null,"Repo":"https://github.com/SimpleLed/Driver.AorusIT8297.git"}]
+[
+  {
+    "Name": "HyperX Alloy RGB",
+    "Id": "27cd1f06-9130-41ed-a9c6-7f735483c309",
+    "PluginId": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 0
+      },
+      "Blurb": "Support for HyperX Alloy Elite RGB and HyperX Alloy FPS RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 0
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"
+  },
+  {
+    "Name": "Simple Cycle",
+    "Id": "4c61a6c0-971a-4631-9876-e22211d1a257",
+    "PluginId": "a9440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 2,
+        "Revision": 0,
+        "Build": 0
+      },
+      "Blurb": "Some simple fun effects",
+      "GitHubLink": "https://github.com/SimpleLed/Source.SimpleCycle",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 2,
+      "Revision": 0,
+      "Build": 0
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.SimpleCycle.git"
+  },
+  {
+    "Name": "Aorus Motherboard",
+    "Id": "449f62b4-fe34-450b-9088-2a200419a834",
+    "PluginId": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": true,
+      "Id": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": null,
+      "CurrentVersion": null,
+      "Blurb": null,
+      "GitHubLink": null,
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": null,
+    "Author": null,
+    "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
+  },
+  {
+    "Name": "AMD Wraith Prism",
+    "Id": "e3692d72-8857-418c-b883-15def3ce23f5",
+    "PluginId": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": null,
+      "CurrentVersion": null,
+      "Blurb": null,
+      "GitHubLink": null,
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": null,
+    "Author": null,
+    "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
+  },
+  {
+    "Name": "AMD Wraith Prism",
+    "Id": "0ffa20f1-54bd-4fab-afb3-1caa4530c337",
+    "PluginId": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 1,
+        "Revision": 0,
+        "Build": 0
+      },
+      "Blurb": "Basic driver for RGB AMD Wraith devices that uses persistence of vision to achieve full LED control",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AMDWraithPrism",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Revision": 0,
+      "Build": 0
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
+  }
+]
