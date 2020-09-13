@@ -289,5 +289,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"
+  },
+  {
+    "Name": "Aorus Motherboard",
+    "Id": "d4f650e8-188e-4e5b-a31c-ed9daf66c7bd",
+    "PluginId": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": true,
+      "Id": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 4
+      },
+      "Blurb": "Driver for Aorus motherboards featuring the IT8297 RGB controller.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AorusIT8297",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 4
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
   }
 ]
