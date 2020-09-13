@@ -320,5 +320,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
+  },
+  {
+    "Name": "AMD Wraith Prism",
+    "Id": "ee26fe51-7bf4-4dd4-8a44-d93596dbaa27",
+    "PluginId": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 1,
+        "Revision": 0,
+        "Build": 2
+      },
+      "Blurb": "Basic driver for RGB AMD Wraith devices that uses persistence of vision to achieve full LED control",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AMDWraithPrism",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Revision": 0,
+      "Build": 2
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
   }
 ]
