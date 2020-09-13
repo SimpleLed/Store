@@ -382,5 +382,98 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
+  },
+  {
+    "Name": "HyperX Alloy RGB",
+    "Id": "b3ad451f-dc75-4319-8764-995a41957c25",
+    "PluginId": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 2
+      },
+      "Blurb": "Support for HyperX Alloy Elite RGB and HyperX Alloy FPS RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 2
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"
+  },
+  {
+    "Name": "Asus",
+    "Id": "9b9f957c-28c8-48df-b76b-56100183e5c8",
+    "PluginId": "bcc35bad-d1ee-4303-a74f-5fa2d381e0af",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "bcc35bad-d1ee-4303-a74f-5fa2d381e0af",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 0
+      },
+      "Blurb": "Support for Asus devices",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Asus",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 0
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Asus.git"
+  },
+  {
+    "Name": "Corsair",
+    "Id": "4e24c61d-2270-4d86-8fa4-d77c9bc52239",
+    "PluginId": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 3
+      },
+      "Blurb": "Support for all devices driven by the CUE sdk",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Corsair",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 3
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
   }
 ]
