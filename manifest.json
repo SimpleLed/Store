@@ -340,5 +340,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.SimpleCycle.git"
+  },
+  {
+    "Name": "Screenshot Source",
+    "Id": "6cd09af0-6041-450e-8c78-5e58305a1832",
+    "PluginId": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 0
+      },
+      "Blurb": "Turn your primary screen into a source for your RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Source.Screenshot",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 0
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.Screenshot.git"
   }
 ]
