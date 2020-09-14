@@ -568,5 +568,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
+  },
+  {
+    "Name": "Aorus Motherboard",
+    "Id": "c9124ee5-f25a-4bf2-9eb4-ae31bf3652a3",
+    "PluginId": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": true,
+      "Id": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 7
+      },
+      "Blurb": "Driver for Aorus motherboards featuring the IT8297 RGB controller.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AorusIT8297",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 7
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
   }
 ]
