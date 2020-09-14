@@ -1,7 +1,7 @@
 [
   {
     "Name": "HyperX Alloy RGB",
-    "Id": "7c9c0b54-df5f-407d-b058-6b74f671a260",
+    "Id": "bc7435a4-ce2d-41c7-9509-b30dd75cceca",
     "PluginId": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
     "DriverProperties": {
       "SupportsPull": false,
@@ -32,7 +32,7 @@
   },
   {
     "Name": "Simple Cycle",
-    "Id": "3ef625b8-740b-4569-9bcc-3af31ee7f328",
+    "Id": "6af16056-6fdd-4b5f-8b86-c3921138de68",
     "PluginId": "a9440d02-8ca3-4e35-a9a3-88b024cc0e2d",
     "DriverProperties": {
       "SupportsPull": false,
@@ -63,7 +63,7 @@
   },
   {
     "Name": "Aorus Motherboard",
-    "Id": "83a7817a-b7e0-4d8a-ba31-ea76b4f6cc05",
+    "Id": "2ef9dd89-704c-4521-b1f7-cda72c3c8ca9",
     "PluginId": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
     "DriverProperties": {
       "SupportsPull": false,
@@ -94,7 +94,7 @@
   },
   {
     "Name": "AMD Wraith Prism",
-    "Id": "84718cf5-ef82-46c9-8734-ea7e459264ce",
+    "Id": "d064c2fc-7ed7-4a34-a5ca-05e183529423",
     "PluginId": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
     "DriverProperties": {
       "SupportsPull": false,
@@ -125,7 +125,7 @@
   },
   {
     "Name": "Asus",
-    "Id": "7d29517f-4555-4627-a702-ba8be7282b58",
+    "Id": "604e77b1-f2cd-4386-b20a-15881e6db0b1",
     "PluginId": "bcc35bad-d1ee-4303-a74f-5fa2d381e0af",
     "DriverProperties": {
       "SupportsPull": false,
@@ -156,7 +156,7 @@
   },
   {
     "Name": "Corsair",
-    "Id": "fccede7f-ea10-493b-bc5a-dcbb64e11821",
+    "Id": "99e55523-3421-496b-9fec-a8243673d73d",
     "PluginId": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
     "DriverProperties": {
       "SupportsPull": true,
@@ -187,7 +187,7 @@
   },
   {
     "Name": "Rainbows",
-    "Id": "87bc154e-a9a2-4e73-a8ff-820c4244eeaa",
+    "Id": "4c341134-0d4a-450b-80c0-6d1852d3ce20",
     "PluginId": "e8c93cac-2379-4f8f-a4c8-8933e77e5c44",
     "DriverProperties": {
       "SupportsPull": false,
@@ -208,7 +208,7 @@
   },
   {
     "Name": "Gradient",
-    "Id": "73c129af-bdc4-4852-ad82-8b34a6a60bf5",
+    "Id": "0b5f75c1-c691-47e5-b29a-5edb0b4f3821",
     "PluginId": "08803b6f-ecce-4f11-9981-26a734b0e3a6",
     "DriverProperties": {
       "SupportsPull": false,
@@ -229,7 +229,7 @@
   },
   {
     "Name": "Solid Color",
-    "Id": "6b00457e-1122-4b5c-8297-3ffe30aea1e8",
+    "Id": "043bbfe8-2d6d-49f2-8f38-93f3fde43dbf",
     "PluginId": "504f988c-a36c-420a-a83c-105665be18ff",
     "DriverProperties": {
       "SupportsPull": false,
@@ -250,7 +250,7 @@
   },
   {
     "Name": "Steel Series Driver",
-    "Id": "b1c4ab82-f46e-49f6-b82a-77e2b9c14e2d",
+    "Id": "6bd2160d-66a1-4172-96de-25fd42a5a05d",
     "PluginId": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
     "DriverProperties": {
       "SupportsPull": false,
