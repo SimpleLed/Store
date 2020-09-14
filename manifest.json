@@ -278,5 +278,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Driver.SteelSeries.git"
+  },
+  {
+    "Name": "Steel Series Driver",
+    "Id": "184243cb-8227-4672-b775-fdaf89ffae29",
+    "PluginId": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 0,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 4
+      },
+      "Blurb": "Work in progress driver for Steel Series devices",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.SteelSeries",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 4
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.SteelSeries.git"
   }
 ]
