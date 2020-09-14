@@ -1,0 +1,8 @@
+https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git
+https://github.com/SimpleLed/Source.SimpleCycle.git
+https://github.com/SimpleLed/Driver.AorusIT8297.git
+https://github.com/SimpleLed/Driver.AMDWraithPrism.git
+https://github.com/SimpleLed/Driver.Asus.git
+https://github.com/SimpleLed/Driver.Corsair.git
+https://github.com/SimpleLed/Source.Basics.git
+https://github.com/SimpleLed/Driver.SteelSeries.git
