@@ -8,3 +8,4 @@ https://github.com/SimpleLed/Source.Basics.git
 https://github.com/SimpleLed/Driver.SteelSeries.git
 https://github.com/SimpleLed/Source.Screenshot.git
 https://github.com/SimpleLed/Source.MadMeters.git
+https://github.com/SimpleLed/Source.ImageScroller.git

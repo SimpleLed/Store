@@ -402,5 +402,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.MadMeters.git"
+  },
+  {
+    "Name": "Screenshot Source",
+    "Id": "91097049-1866-4366-8b88-0bbd38c3e5f7",
+    "PluginId": "99440d02-8ca3-4e35-ffe3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-ffe3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1
+      },
+      "Blurb": "Turn your primary screen into a source for your RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Source.Screenshot",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.Screenshot.git"
   }
 ]
