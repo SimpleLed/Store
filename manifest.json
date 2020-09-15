@@ -402,5 +402,129 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.MadMeters.git"
+  },
+  {
+    "Name": "AMD Wraith Prism",
+    "Id": "f38b2678-44eb-43bb-bf72-09e895f1e5d8",
+    "PluginId": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 1,
+        "Revision": 0,
+        "Build": 3
+      },
+      "Blurb": "Basic driver for RGB AMD Wraith devices that uses persistence of vision to achieve full LED control",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AMDWraithPrism",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Revision": 0,
+      "Build": 3
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
+  },
+  {
+    "Name": "Steel Series Driver",
+    "Id": "03077a08-0783-403d-9e17-2be08daff378",
+    "PluginId": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 0,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 5
+      },
+      "Blurb": "Work in progress driver for Steel Series devices",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.SteelSeries",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 5
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.SteelSeries.git"
+  },
+  {
+    "Name": "Screenshot Source",
+    "Id": "66e9ad27-b371-47af-ac77-425ded1135a2",
+    "PluginId": "99440d02-8ca3-4e35-ffe3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-ffe3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 2
+      },
+      "Blurb": "Turn your primary screen into a source for your RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Source.Screenshot",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 2
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.Screenshot.git"
+  },
+  {
+    "Name": "MadMeters",
+    "Id": "66169683-26c4-4feb-a21f-a53ca9ec4f26",
+    "PluginId": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1
+      },
+      "Blurb": "Monitor your system with your RGB fans and LED strips!",
+      "GitHubLink": "https://github.com/SimpleLed/Source.MadMeters",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.MadMeters.git"
   }
 ]
