@@ -340,5 +340,67 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.SimpleCycle.git"
+  },
+  {
+    "Name": "Screenshot Source",
+    "Id": "a3a6ad70-1ba2-4ab6-8158-706675e0aeec",
+    "PluginId": "99440d02-8ca3-4e35-ffe3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-ffe3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1
+      },
+      "Blurb": "Turn your primary screen into a source for your RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Source.Screenshot",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.Screenshot.git"
+  },
+  {
+    "Name": "MadMeters",
+    "Id": "b7a2f7f1-eaba-4a7f-a3ec-2bedaf0b6319",
+    "PluginId": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 0
+      },
+      "Blurb": "Monitor your system with your RGB fans and LED strips!",
+      "GitHubLink": "https://github.com/SimpleLed/Source.MadMeters",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 0
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.MadMeters.git"
   }
 ]
