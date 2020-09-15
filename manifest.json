@@ -588,5 +588,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.MadMeters.git"
+  },
+  {
+    "Name": "Image Scroller",
+    "Id": "3e2f7581-86eb-424b-8a9c-3e65cbfcfcd0",
+    "PluginId": "a9440d02-bba3-4e35-a9a3-28194acc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-bba3-4e35-a9a3-28194acc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1
+      },
+      "Blurb": "Scroll images across your 2D devices",
+      "GitHubLink": "https://github.com/SimpleLed/Source.ImageScroller",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.ImageScroller.git"
   }
 ]
