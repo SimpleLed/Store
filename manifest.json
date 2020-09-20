@@ -619,5 +619,67 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.ImageScroller.git"
+  },
+  {
+    "Name": "HyperX Alloy RGB",
+    "Id": "27e458db-fa34-44c3-a40a-28b15404e616",
+    "PluginId": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 5
+      },
+      "Blurb": "Support for HyperX Alloy Elite RGB and HyperX Alloy FPS RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 5
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"
+  },
+  {
+    "Name": "Grid Ripple",
+    "Id": "bf1e27c6-7534-4bcf-b3ff-c2a9a33baef9",
+    "PluginId": "78c8f449-0148-476b-a6de-b490a9f92017",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "78c8f449-0148-476b-a6de-b490a9f92017",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 0,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1001
+      },
+      "Blurb": "Example effect with 2d support and basic interactivity",
+      "GitHubLink": "https://github.com/SimpleLed/Source.gridripple",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1001
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.gridripple.git"
   }
 ]
