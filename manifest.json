@@ -681,5 +681,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.gridripple.git"
+  },
+  {
+    "Name": "Corsair",
+    "Id": "84b67d12-c890-4925-815d-490d17f959e3",
+    "PluginId": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 6
+      },
+      "Blurb": "Driver for all devices compatible with the iCUE SDK.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Corsair",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 6
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
   }
 ]
