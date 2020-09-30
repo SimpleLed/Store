@@ -774,5 +774,222 @@
     },
     "Author": "Fanman03",
     "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
+  },
+  {
+    "Name": "HyperX Alloy RGB",
+    "Id": "66cd4be9-ea82-4f65-bb8d-3f146d2e16b1",
+    "PluginId": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-bba3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 6
+      },
+      "Blurb": "Support for HyperX Alloy Elite RGB and HyperX Alloy FPS RGB",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 6
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git"
+  },
+  {
+    "Name": "Simple Cycle",
+    "Id": "5d393a75-b548-4a7a-bb12-b0c33bfc8a29",
+    "PluginId": "a9440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "a9440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 2,
+        "Revision": 0,
+        "Build": 2
+      },
+      "Blurb": "Some simple fun effects",
+      "GitHubLink": "https://github.com/SimpleLed/Source.SimpleCycle",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 2,
+      "Revision": 0,
+      "Build": 2
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.SimpleCycle.git"
+  },
+  {
+    "Name": "Aorus Motherboard",
+    "Id": "81d5ea8b-969c-4369-a616-7d401daf85df",
+    "PluginId": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": true,
+      "Id": "49440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 9
+      },
+      "Blurb": "Driver for Aorus motherboards featuring the IT8297 RGB controller.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AorusIT8297",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 9
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AorusIT8297.git"
+  },
+  {
+    "Name": "AMD Wraith Prism",
+    "Id": "20aa6f7a-08b2-462b-88fd-3c0ce8f5f176",
+    "PluginId": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "49440cc2-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 1,
+        "Revision": 0,
+        "Build": 4
+      },
+      "Blurb": "Basic driver for RGB AMD Wraith devices that uses persistence of vision to achieve full LED control",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.AMDWraithPrism",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Revision": 0,
+      "Build": 4
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.AMDWraithPrism.git"
+  },
+  {
+    "Name": "Steel Series Driver",
+    "Id": "bb9ff801-dd7c-497d-80d3-0ad409797cc0",
+    "PluginId": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "996534cc-d81f-4fbb-b49e-7bfd6449dae9",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 0,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 7
+      },
+      "Blurb": "Work in progress driver for Steel Series devices",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.SteelSeries",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 7
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.SteelSeries.git"
+  },
+  {
+    "Name": "MadMeters",
+    "Id": "ecd4625f-a5c1-4e71-94d5-8af3affc09f3",
+    "PluginId": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "99440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 4
+      },
+      "Blurb": "Monitor your system with your RGB fans and LED strips!",
+      "GitHubLink": "https://github.com/SimpleLed/Source.MadMeters",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 4
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.MadMeters.git"
+  },
+  {
+    "Name": "Grid Ripple",
+    "Id": "fda3d1ac-7c45-445a-aa26-1904a1837d76",
+    "PluginId": "78c8f449-0148-476b-a6de-b490a9f92017",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "78c8f449-0148-476b-a6de-b490a9f92017",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 0,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1002
+      },
+      "Blurb": "Example effect with 2d support and basic interactivity",
+      "GitHubLink": "https://github.com/SimpleLed/Source.gridripple",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1002
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/Source.gridripple.git"
   }
 ]
