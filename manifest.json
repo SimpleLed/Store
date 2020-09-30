@@ -712,5 +712,67 @@
     },
     "Author": "Fanman03",
     "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
+  },
+  {
+    "Name": "Asus",
+    "Id": "2aceb5af-8121-45c3-92d7-76b0501a3c4e",
+    "PluginId": "bcc35bad-d1ee-4303-a74f-5fa2d381e0af",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "bcc35bad-d1ee-4303-a74f-5fa2d381e0af",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1
+      },
+      "Blurb": "Support for Asus Aura devices.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Asus",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Asus.git"
+  },
+  {
+    "Name": "Corsair",
+    "Id": "4974c244-30f3-4f2f-a36c-f0ada833af87",
+    "PluginId": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 7
+      },
+      "Blurb": "Driver for all devices compatible with the iCUE SDK.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Corsair",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 7
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
   }
 ]
