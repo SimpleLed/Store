@@ -991,5 +991,36 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/Source.gridripple.git"
+  },
+  {
+    "Name": "PhillipsHue",
+    "Id": "80748a4d-eb0d-4d5f-bc75-85e769dabda5",
+    "PluginId": "14e1f193-5e17-4e56-82ce-6a3f8f282020",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "14e1f193-5e17-4e56-82ce-6a3f8f282020",
+      "Author": "Mad Ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1002
+      },
+      "Blurb": "Simple Driver for HUE bulbs",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.PhillipsHue",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1002
+    },
+    "Author": "Mad Ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.PhillipsHue.git"
   }
 ]
