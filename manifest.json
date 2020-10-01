@@ -1022,5 +1022,36 @@
     },
     "Author": "Mad Ninja",
     "Repo": "https://github.com/SimpleLed/Driver.PhillipsHue.git"
+  },
+  {
+    "Name": "PhillipsHue",
+    "Id": "c8db37e5-f9a9-4aae-879e-7f3843071a34",
+    "PluginId": "14e1f193-5e17-4e56-82ce-6a3f8f282020",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "14e1f193-5e17-4e56-82ce-6a3f8f282020",
+      "Author": "Mad Ninja",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1003
+      },
+      "Blurb": "Simple Driver for HUE bulbs",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.PhillipsHue",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1003
+    },
+    "Author": "Mad Ninja",
+    "Repo": "https://github.com/SimpleLed/Driver.PhillipsHue.git"
   }
 ]
