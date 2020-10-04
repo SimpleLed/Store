@@ -1208,5 +1208,36 @@
     },
     "Author": "Fanman03",
     "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
+  },
+  {
+    "Name": "Corsair",
+    "Id": "d736b5e4-da0c-424f-bd74-57727c39b9bf",
+    "PluginId": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 12
+      },
+      "Blurb": "Driver for all devices compatible with the iCUE SDK.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Corsair",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 12
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
   }
 ]
