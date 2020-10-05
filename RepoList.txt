@@ -1,3 +1,4 @@
+https://github.com/SimpleLed/GameIntegration.Destiny2PC.git
 https://github.com/SimpleLed/Driver.HyperXAlloy.RGB.git
 https://github.com/SimpleLed/Driver.PhillipsHue.git
 https://github.com/SimpleLed/Source.SimpleCycle.git
