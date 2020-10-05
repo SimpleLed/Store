@@ -1301,5 +1301,36 @@
     },
     "Author": "Fanman03",
     "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
+  },
+  {
+    "Name": "Destiny 2",
+    "Id": "9200530f-54cd-4b9d-ad71-cc5b447b75d0",
+    "PluginId": "b3a7c0c3-5db0-4e1f-8cd5-595f74cec559",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": false,
+      "IsSource": true,
+      "SupportsCustomConfig": false,
+      "Id": "b3a7c0c3-5db0-4e1f-8cd5-595f74cec559",
+      "Author": "mad ninja",
+      "CurrentVersion": {
+        "Major": 0,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 1000
+      },
+      "Blurb": "Get live feedback from various Destiny 2 values in your RGB!",
+      "GitHubLink": "https://github.com/SimpleLed/GameIntegration.Destiny2PC",
+      "HomePage": null,
+      "IsPublicRelease": false
+    },
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 1000
+    },
+    "Author": "mad ninja",
+    "Repo": "https://github.com/SimpleLed/GameIntegration.Destiny2PC.git"
   }
 ]
