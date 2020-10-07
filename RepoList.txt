@@ -11,4 +11,5 @@ https://github.com/SimpleLed/Driver.SteelSeries.git
 https://github.com/SimpleLed/Source.Screenshot.git
 https://github.com/SimpleLed/Source.MadMeters.git
 https://github.com/SimpleLed/Source.ImageScroller.git
+https://github.com/SimpleLed/Driver.Razer.git
 https://github.com/SimpleLed/Source.gridripple.git
