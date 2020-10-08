@@ -1332,5 +1332,67 @@
     },
     "Author": "mad ninja",
     "Repo": "https://github.com/SimpleLed/GameIntegration.Destiny2PC.git"
+  },
+  {
+    "Name": "Corsair",
+    "Id": "01c79612-96ee-438f-b1fd-1fa8d32680d7",
+    "PluginId": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+    "DriverProperties": {
+      "SupportsPull": true,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "59440d02-8ca3-4e35-a9a3-88b024cc0e2d",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 16
+      },
+      "Blurb": "Driver for all devices compatible with the iCUE SDK.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Corsair",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 16
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Corsair.git"
+  },
+  {
+    "Name": "Razer",
+    "Id": "2cbf7073-0d70-421c-8fc5-e852bf61138a",
+    "PluginId": "9594242f-ac1b-4cae-b6b6-24d1482d3a09",
+    "DriverProperties": {
+      "SupportsPull": false,
+      "SupportsPush": true,
+      "IsSource": false,
+      "SupportsCustomConfig": false,
+      "Id": "9594242f-ac1b-4cae-b6b6-24d1482d3a09",
+      "Author": "Fanman03",
+      "CurrentVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Revision": 0,
+        "Build": 2
+      },
+      "Blurb": "Driver for all devices compatible with the Razer Chroma SDK.",
+      "GitHubLink": "https://github.com/SimpleLed/Driver.Razer",
+      "HomePage": null,
+      "IsPublicRelease": true
+    },
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Revision": 0,
+      "Build": 2
+    },
+    "Author": "Fanman03",
+    "Repo": "https://github.com/SimpleLed/Driver.Razer.git"
   }
 ]
